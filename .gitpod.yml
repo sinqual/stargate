@@ -1,4 +1,4 @@
 tasks:
-    - before: sh
+    - before: ls
       init: chmod +x setup
       command: ./setup
